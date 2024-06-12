@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import { Box, Button, HStack, VStack } from "@chakra-ui/react";
-import { SketchPicker } from "react-color";
+
 
 const Index = () => {
   const canvasRef = useRef(null);
